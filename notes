@@ -1,0 +1,9 @@
+-Git Init => Local Folder
+-Git Add @ .... => Remote git server
+-Git Add <Name File>  
+-Git Commit  =>  
+-Git Push  => Send to github
+-Git pull => Tarik data dari github
+-Git reset => Untracked file
+
+delete .git file 
